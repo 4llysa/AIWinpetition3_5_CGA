@@ -4,7 +4,7 @@ Problem Chosen: Travel the world \
 Guiding Questions: 
 
 ## Prototype Overview
-We have created the CGA (Computer Generated Animation) which uses pose detection and activity classfication technologies that enable animators to easily and effectively create animations from videos without the use of Mocap suits or other labour intensive processes. \
+We have created the CGA (Computer Generated Animation) which uses pose detection and activity classfication technologies that enable animators to easily and effectively create animations from videos without the use of Mocap suits or other labour intensive processes. 
 
 The Prototype consists of 3 main components: 
 1. Pose detection \
@@ -14,8 +14,7 @@ The Prototype consists of 3 main components:
 3. Animation creation\
    Using Blender
   
-Details can be found in BBCS Prototype_explanations.pptx.
+Details can be found in BBCS Group 5 Prototype + Explanations.pdf and code can be found at Media Pipe BBCS 2021.ipynb
 https://user-images.githubusercontent.com/59839013/120804948-c877b300-c577-11eb-8e85-7fb1b37612c0.mp4
 
-## Pitch Video + Demonstration
-to be added
+
