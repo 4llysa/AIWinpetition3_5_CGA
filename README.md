@@ -2,6 +2,9 @@
 
 Problem Chosen: Travel the world \
 Guiding Questions: 
+- Can AI be used in filming or media production, in the Hollywood context?
+- Relating to one movie/ film that you have seen, do you think AI can be used in their context? For eg: can AI be used in Harry Potter? 
+
 
 ## Prototype Overview
 We have created the CGA (Computer Generated Animation) which uses pose detection and activity classfication technologies that enable animators to easily and effectively create animations from videos without the use of Mocap suits or other labour intensive processes. 
