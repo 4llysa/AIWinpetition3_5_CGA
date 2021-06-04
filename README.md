@@ -14,7 +14,5 @@ The Prototype consists of 3 main components:
 3. Animation creation\
    Using Blender
   
-Details can be found in BBCS Group 5 Prototype + Explanations.pdf and code can be found at Media Pipe BBCS 2021.ipynb
-https://user-images.githubusercontent.com/59839013/120804948-c877b300-c577-11eb-8e85-7fb1b37612c0.mp4
-
+Details can be found in [BBCS Group 5 Prototype + Explanations.pdf](https://github.com/4llysa/BBCS-2021/blob/ecf3e0fa5aa01f7bf9f021fc26a3b9fcc337b6fb/BBCS%20Group%205%20Prototype%20+%20Explanations.pdf) and code can be found at [Media Pipe BBCS 2021.ipynb](https://github.com/4llysa/BBCS-2021/blob/ecf3e0fa5aa01f7bf9f021fc26a3b9fcc337b6fb/Media%20Pipe%20BBCS%202021.ipynb)
 
