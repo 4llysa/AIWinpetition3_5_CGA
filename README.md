@@ -19,4 +19,4 @@ The Prototype consists of 3 main components:
   
 Details can be found in [BBCS Group 5 Prototype + Explanations.pdf](https://github.com/4llysa/BBCS-2021/blob/ecf3e0fa5aa01f7bf9f021fc26a3b9fcc337b6fb/BBCS%20Group%205%20Prototype%20+%20Explanations.pdf) and code can be found at [Media Pipe BBCS 2021.ipynb](https://github.com/4llysa/BBCS-2021/blob/ecf3e0fa5aa01f7bf9f021fc26a3b9fcc337b6fb/Media%20Pipe%20BBCS%202021.ipynb) which will cover the pose detection/
 
-In case the slides does not work, the google slides can be found [here](https://docs.google.com/presentation/d/1yj2A6oC5TuBLLEnKh7lcpUNMzpOodukbW9y9Lwae1fw/edit?usp=sharing)
+The slides can be found [here](https://docs.google.com/presentation/d/1yj2A6oC5TuBLLEnKh7lcpUNMzpOodukbW9y9Lwae1fw/edit?usp=sharing)
